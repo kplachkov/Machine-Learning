@@ -11,6 +11,7 @@
         * [Support Vector Machine From Scratch](Classification/SupportVectorMachine/SupportVectorMachineFromScratch.ipynb)
         * [Breast Cancer Wisconsin SVM](Classification/SupportVectorMachine/BreastCancerWisconsinSVM.ipynb)  
 * Clustering      
-  
+   * [Flat Clustering K Means](Clustering/FlatClusteringKMeans.ipynb)
+   * [Titanic K Means](Clustering/TitanicKMeans.ipynb)  
     
 ![alt text](http://scikit-learn.org/stable/_static/ml_map.png "Cheat-sheet")
