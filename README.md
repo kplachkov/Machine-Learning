@@ -13,5 +13,6 @@
 * Clustering      
    * [Flat Clustering K Means](Clustering/FlatClusteringKMeans.ipynb)
    * [Titanic K Means](Clustering/TitanicKMeans.ipynb)  
+   * [K Means From Scratch](Clustering/KMeansFromScratch.ipynb)  
     
 ![alt text](http://scikit-learn.org/stable/_static/ml_map.png "Cheat-sheet")
