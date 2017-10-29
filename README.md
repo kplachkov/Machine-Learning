@@ -17,5 +17,6 @@
         * [K Means From Scratch](Clustering/FlatClustering/KMeansFromScratch.ipynb)  
    * [Hierarchical Clustering](Clustering/HierarchicalClustering)
         * [MeanShift](Clustering/HierarchicalClustering/MeanShift.ipynb)
+        * [TitanicMeanShift](Clustering/HierarchicalClustering/TitanicMeanShift.ipynb)
     
 ![alt text](http://scikit-learn.org/stable/_static/ml_map.png "Cheat-sheet")
