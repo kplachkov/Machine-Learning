@@ -20,4 +20,14 @@
         * [Titanic (Mean Shift)](Clustering/HierarchicalClustering/TitanicMeanShift.ipynb)
         * [Mean Shift from Scratch](Clustering/HierarchicalClustering/MeanShiftFromScratch.ipynb)
     
-![alt text](http://scikit-learn.org/stable/_static/ml_map.png "Cheat-sheet")
+## Machine Learning Algorithms
+![ML cheat-sheet](http://scikit-learn.org/stable/_static/ml_map.png "ML cheat-sheet")
+
+## Numpy
+![Numpy cheat-sheet](http://datacamp-community.s3.amazonaws.com/6f6529e8-6ac5-4753-a891-60bfe7465934 "Numpy cheat-sheet")
+
+## Pandas
+![Pandas cheat-sheet](http://www.mercuryminds.com/wp-content/uploads/2017/07/1-2RJpJMci8ysUbrFOCzPKAw.png "Pandas cheat-sheet")
+
+## Matplotlib
+![Matplotlib cheat-sheet](https://cdn-images-1.medium.com/max/2000/1*ykxp7OpgBXbRRHgjzSkeCA.png "Matplotlib cheat-sheet")
