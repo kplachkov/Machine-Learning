@@ -23,7 +23,7 @@
 ## Machine Learning Algorithms
 ![ML cheat-sheet](http://scikit-learn.org/stable/_static/ml_map.png "ML cheat-sheet")
 
-## Numpy
+## NumPy
 ![Numpy cheat-sheet](http://datacamp-community.s3.amazonaws.com/6f6529e8-6ac5-4753-a891-60bfe7465934 "Numpy cheat-sheet")
 
 ## Pandas
