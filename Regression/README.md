@@ -1,5 +1,6 @@
 # Regression
-![alt text](https://1.bp.blogspot.com/-ni27TqdhQaM/WVLz1DSCYFI/AAAAAAAAFYQ/vBsOpvMj5VQW5p5ZpD0rjwuwFPjK7vauQCLcBGAs/s1600/regressionfit.gif "Linear Regression")  
+![Linear Regression](https://cdn-images-1.medium.com/max/1629/1*oXPGYqgTeIn0Ey3SWgkbsA.jpeg "Linear Regression")   
+
 **y = mx + b**  
 m - slope  
 b - y intercept  
