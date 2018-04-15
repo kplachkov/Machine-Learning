@@ -4,7 +4,7 @@ Machine learning is closely related to (and often overlaps with) computational s
 
 Within the field of data analytics, machine learning is a method used to devise complex models and algorithms that lend themselves to prediction; in commercial use, this is known as predictive analytics. These analytical models allow researchers, data scientists, engineers, and analysts to "produce reliable, repeatable decisions and results" and uncover "hidden insights" through learning from historical relationships and trends in the data.
 
-## Overview
+## Table of contents
 * Regression  
    * [Tesla Stock Price Forecast](Regression/TeslaStockPriceForecast.ipynb)
    * [Linear Regression from Scratch](Regression/LinearRegressionFromScratch.ipynb)
