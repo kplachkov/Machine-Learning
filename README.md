@@ -9,7 +9,7 @@ Within the field of data analytics, machine learning is a method used to devise 
    * [Tesla Stock Price Forecast](Regression/Tesla-Stock-Price-Forecast.ipynb)
    * [Linear Regression from Scratch](Regression/Linear-Regression-From-Scratch.ipynb)
 * Classification  
-   * [K-Nearest Neighbors](Classification/K-Nearest%20Neighbors)
+   * [K-Nearest Neighbors (k-NN)](Classification/K-Nearest%20Neighbors)
         * [Breast Cancer Wisconsin (k-NN)](Classification/K-Nearest%20Neighbors/Breast-Cancer-Wisconsin-KNN.ipynb)
         * [K-Nearest Neighbors from Scratch](Classification/K-Nearest%20Neighbors/KNN-From-Scratch.ipynb)
    * [Support Vector Machine (SVM)](Classification/Support%20Vector%20Machine)
